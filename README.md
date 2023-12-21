@@ -6,7 +6,7 @@
 
 # Career
 |Type|Date|Contents|Organization|
-|----|-----|---------|---------|
+|:----:|:-----:|:---------:|:---------:|
 |**Education**|2023.08 ~ <br/>2023.12|Naver BoostCamp<br/>Membership|**Naver<br/>Connect**|
 |**Education**|2023.07 ~ <br/>2023.08|Naver BoostCamp<br/>Challenge|**Naver<br/>Connect**|
 
