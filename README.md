@@ -7,8 +7,8 @@
 # Career
 |Type|Date|Contents|Organization|
 |----|-----|---------|---------|
-|Education|2023.08~\n2023.12|테스트3|테스트4|
-|Education|테스트2|테스트3|테스트4|
+|**Education**|2023.08 ~ <br/>2023.12|Naver BoostCamp<br/>Membership|**Naver<br/>Connect**|
+|**Education**|2023.07 ~ <br/>2023.08|Naver BoostCamp<br/>Challenge|**Naver<br/>Connect**|
 
 # 💪Skills
 ### Languages
