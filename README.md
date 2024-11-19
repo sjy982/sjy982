@@ -12,7 +12,7 @@
 
 # Open Source Contributions
 - [Line/armeria](https://github.com/line/armeria/pulls?q=is%3Apr+author%3Asjy982)
-  - Add `StreamMessage.timeout()` [#5761])(https://github.com/line/armeria/pull/5761)
+  - Add `StreamMessage.timeout()` [#5761](https://github.com/line/armeria/pull/5761)
 
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=velog&link=https://velog.io/@shinjy9802/)](https://velog.io/@shinjy9802/)
