@@ -10,6 +10,10 @@
 |**Education**|2023.08 ~ <br/>2023.12|Naver BoostCamp<br/>Membership|**Naver<br/>Connect**|
 |**Education**|2023.07 ~ <br/>2023.08|Naver BoostCamp<br/>Challenge|**Naver<br/>Connect**|
 
+# Open Source Contributions
+- [Line/armeria](https://github.com/line/armeria/pulls?q=is%3Apr+author%3Asjy982)
+  - Add `StreamMessage.timeout()` [#5761])(https://github.com/line/armeria/pull/5761)
+
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=velog&link=https://velog.io/@shinjy9802/)](https://velog.io/@shinjy9802/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shinjy0211@gmail.com)](mailto:shinjy0211@gmail.com)
