@@ -11,7 +11,7 @@
 |**Education**|2023.07 ~ <br/>2023.08|Naver BoostCamp<br/>Challenge|**Naver<br/>Connect**|
 
 # Open Source Contributions
-- [Line/armeria](https://github.com/line/armeria/pulls?q=is%3Apr+author%3Asjy982)
+- [Line/armeria](https://github.com/line/armeria/pulls?q=is%3Apr+author%3Asjy982+is%3Amerged)
   - Add `StreamMessage.timeout()` [#5761](https://github.com/line/armeria/pull/5761) [Line/Armeria - 오픈 소스 기여기 01
 ](https://velog.io/@shinjy9802/LineArmeria-%EC%98%A4%ED%94%88-%EC%86%8C%EC%8A%A4-%EA%B8%B0%EC%97%AC%EA%B8%B0-01)
 
