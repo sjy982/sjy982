@@ -15,7 +15,7 @@
   - Add `StreamMessage.timeout()` [#5761](https://github.com/line/armeria/pull/5761) [Line/Armeria - 오픈 소스 기여기 01
 ](https://velog.io/@shinjy9802/LineArmeria-%EC%98%A4%ED%94%88-%EC%86%8C%EC%8A%A4-%EA%B8%B0%EC%97%AC%EA%B8%B0-01)
 - [Line/armeria](https://github.com/line/armeria/pulls?q=is%3Apr+author%3Asjy982+is%3Amerged)
-  - Add `StreamTimeoutStrategy` [#6245](https://github.com/line/armeria/pull/6245)
+  - (진행 중) Add `StreamTimeoutStrategy` [#6245](https://github.com/line/armeria/pull/6245)
 
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=velog&link=https://velog.io/@shinjy9802/)](https://velog.io/@shinjy9802/)
