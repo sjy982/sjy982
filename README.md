@@ -14,7 +14,7 @@
 - [Line/armeria](https://github.com/line/armeria/pulls?q=is%3Apr+author%3Asjy982+is%3Amerged)
   - Add `StreamMessage.timeout()` [#5761](https://github.com/line/armeria/pull/5761)
 - [Line/armeria](https://github.com/line/armeria/pulls?q=is%3Apr+author%3Asjy982+is%3Amerged)
-  - (진행 중) Add `Add streamTimeout option to WebSocketService/WebSocketClient; send close frame on inbound failure; clean up related resources` [#6357](https://github.com/line/armeria/pull/6357)
+  - Add `Add streamTimeout option to WebSocketService/WebSocketClient; send close frame on inbound failure; clean up related resources` [#6357](https://github.com/line/armeria/pull/6357)
 
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=velog&link=https://velog.io/@shinjy9802/)](https://velog.io/@shinjy9802/)
